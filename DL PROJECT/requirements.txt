@@ -1,0 +1,6 @@
+#install the require packages using pip command
+streamlit
+tensorflow
+keras
+matplotlib
+numpy
