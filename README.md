@@ -1,9 +1,9 @@
 # DB3
 Flower Species Recognition
 ### Team Names:
-1.M.Tirumala Vamsi 
-2.K. Pavan Kumar
-3.J. Sai Manikanta Harshith
+1. M.Tirumala Vamsi 
+2. K. Pavan Kumar
+3. J. Sai Manikanta Harshith
 ### Introduction
 Flowers are one of the beautiful creations of god and they exist in millions of different
 species and colours. Identifying each of them requires a botanist with immense knowledge and
