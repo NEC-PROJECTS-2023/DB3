@@ -22,3 +22,5 @@ accurately identify flowers and provide information about their meanings and use
 analysing images of different flowers and their associated metadata, machine learning
 algorithms can learn to recognize the unique characteristics of each species and match them to
 their corresponding meanings.
+
+DATASET :- [DATASET LINK](https://www.kaggle.com/datasets/alxmamaev/flowers-recognition)
